@@ -13,11 +13,11 @@ Many of the "language by example" websites are a fork of (or based on) [Go by Ex
 - [Dart](https://dart.dev)
   - [Dart by Example](https://www.jpryan.me/dartbyexample) ([source](https://github.com/johnpryan/dartbyexample))
 - [Go](https://go.dev)
-  - [Go by Example](https://gobyexample.com) ([source](https://github.com/mmcgrana))
+  - [Go by Example](https://gobyexample.com) ([source](https://github.com/mmcgrana/gobyexample))
 - [Haskell](https://www.haskell.org/)
   - [Haskell by Example](https://lotz84.github.io/haskellbyexample) (archived [source](https://github.com/lotz84/haskellbyexample))
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [[ECMAScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)]
-  - [JavaScript by Example](https://javascriptbyexample.com) ([source](https://github.com/ericwindmill/javascript-by-example]))
+  - [JavaScript by Example](https://javascriptbyexample.com) ([source](https://github.com/ericwindmill/javascript-by-example))
 - [Nim](https://nim-lang.org)
   - [Nim by Example](https://nim-by-example.github.io) ([source](https://github.com/flaviut/nim-by-example))
 - [Rust](https://rust-lang.org)
